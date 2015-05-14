@@ -1,0 +1,2 @@
+# qaedi
+Pejuang SISOP
